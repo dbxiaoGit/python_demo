@@ -1,8 +1,8 @@
-#!/usr/bin/python  
-# -*- coding: utf-8 -*-  
+#!/usr/bin/env python
+# -*-coding:utf-8 -*-
 '''
-@author: dbxiao 
-'''  
+@author dbxiao
+'''
 
 import socket
 
