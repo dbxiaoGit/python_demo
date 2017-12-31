@@ -1,4 +1,6 @@
-# python_demo
+# 一些杂七杂八的东东
+
+
 
 http://www.android-doc.com/tools/help/MonkeyDevice.html
 
