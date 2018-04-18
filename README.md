@@ -32,3 +32,9 @@ IPV4/IPV6: http://mirrors.opencas.ac.cn 端口：80
 
 http://android-mirror.bugly.qq.com 端口：8080
 腾讯镜像使用方法: http://android-mirror.bugly.qq.com:8080/include/usage.html
+
+>python2启用simpleHTTPServer：
+>>python -m SimpleHTTPServer 80
+
+>python3启用simpleHTTPServer：
+>>python -m http.server 80
