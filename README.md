@@ -37,4 +37,9 @@ http://android-mirror.bugly.qq.com 端口：8080
 >>python -m SimpleHTTPServer 80
 
 >python3启用simpleHTTPServer：
->>python -m http.server 80
+>>python -m http.server 80    
+
+再次挑战1520/1000  
+闯关1520/880
+
+
