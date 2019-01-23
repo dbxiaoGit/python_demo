@@ -10,10 +10,10 @@ class AutoPlayer:
 		self.screen_width = self.driver.getProperty('display.width')
 		self.screen_height = self.driver.getProperty('display.height')
 		print 'width:%s,height:%s'%(self.screen_width,self.screen_height)
-		self.point_x1 = int(self.screen_width)*1710/1920
-		self.point_y1 = int(self.screen_height)*100/1080
-		self.point_x2 = int(self.screen_width)*1710/1920
-		self.point_y2 = int(self.screen_height)*100/1080
+		self.point_x1 = int(self.screen_width)*1520/1920
+		self.point_y1 = int(self.screen_height)*1000/1080
+		self.point_x2 = int(self.screen_width)*1520/1920
+		self.point_y2 = int(self.screen_height)*880/1080
 		print 'self.point_x1:%d,self.point_y1:%d'%(self.point_x1,self.point_y1)
 		print 'self.point_x2:%d,self.point_y2:%d'%(self.point_x2,self.point_y2)
 		self.driver.startActivity(component = "com.tencent.tmgp.sgame/com.tencent.tmgp.sgame.SGameActivity")
